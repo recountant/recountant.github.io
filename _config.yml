@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       190514 공부시작
+email:       1uckyboy@naver.com
+author:      recountant
+description: "A simple, beautiful world."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "recountant.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
